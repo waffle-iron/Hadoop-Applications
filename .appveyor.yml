@@ -21,7 +21,7 @@ version: '1.0.0-dev.{build}'
 
 shallow_clone: true
 
-build: off
+build: on
 
 os:
   - Visual Studio 2015
