@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/miandreu/Hadoop-Applications.png?columns=all)](https://waffle.io/miandreu/Hadoop-Applications?utm_source=badge)
 Hadoop Tutorials and Examples
 =============================
 
